@@ -1,5 +1,5 @@
 ## Game Download Monitor
-GameDownloadMonitor is a Python application that tracks game download speeds and automatically shuts down your PC if the speed drops below a set threshold. Ideal for managing large downloads and optimizing power usage.
+GameDownloadMonitor is a Python application that allows you to start game downloads and then go about your work. It monitors the download speed and automatically shuts down your PC when the download is complete, ensuring your computer doesn't stay on unnecessarily. Perfect for managing long downloads efficiently without manual intervention.
 
 ## Features
 
