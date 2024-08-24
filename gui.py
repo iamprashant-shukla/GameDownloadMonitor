@@ -12,7 +12,7 @@ from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
 
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"G:\VS projects\build\assets\frame0")
+ASSETS_PATH = OUTPUT_PATH / Path(r"G:\VS projects\build\assets\frame0") #The line is specific to your file system, pointing to a directory where your GUI assets (like images) are stored. This hardcoded path won't work for other users unless they have the exact same directory structure on their system.
 
 
 def relative_to_assets(path: str) -> Path:
