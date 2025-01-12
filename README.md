@@ -12,6 +12,7 @@ GameDownloadMonitor is a Python application that allows you to start game downlo
 ## System Requirements
 - Windows OS (7 or later) recommended.
 - 10 MB of available disk space.
+- Nothing much :)
 ## Contributing
 
 Contributions are welcome. To contribute:
